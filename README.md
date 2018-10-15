@@ -1,2 +1,5 @@
-# cpp_utils
-Library for useful C++ functions
+# C++ Utility Library
+Simple and clean C++ Utility Library.
+
+Implemented Functions:
+* Random Integer Numbers;
